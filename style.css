@@ -21,7 +21,7 @@ a {
 	text-decoration: none !important;
 }
 a:hover {
-	color: #ffaf53 !important;
+	color: black !important;
 }
 img {
 	max-width: 100%;
@@ -80,7 +80,7 @@ h6 {
 	z-index: 1030;
 }
 .navbar .active {
-	color: #ffaf53 !important;
+	color: cyan !important;
 }
 .navbar .navbar-brand {
 }
@@ -219,7 +219,7 @@ h6 {
 	margin-bottom: 5px;
 }
 .sub-title-paragraph h5 {
-	color:#ffaf53;
+	color:goldenrod;
 }
 .sub-title-paragraph p {
 	padding-top: 20px;
@@ -228,7 +228,7 @@ h6 {
 	line-height: 25px;
 }
 .anchor-btn {
-	background: #ffaf53;
+	background: goldenrod;
 	padding: 10px 20px;
 	color: #ffffff !important;
 	border-radius: 3px;
@@ -250,7 +250,7 @@ h6 {
 }
 .service-box .icon i {
 	font-size: 40px;
-	color: #ffaf53;
+	color: blue;
 }
 .icon-text {
 }
@@ -463,7 +463,7 @@ h6 {
 	margin-bottom: 25px;
 }
 .testimonials h5 {
-	color:#ffaf53;
+	color:#ab2f52;
 }
 .testimonials h6 {
 	color: #ffffff;
